@@ -1,6 +1,6 @@
 local colors = {
   none = "NONE",
-  fg = "#eeeeee",
+  fg = "#eeeeee00",
   bg = "#00000000",
   alt_bg = "#00000000",
   dark = "#00000000",
