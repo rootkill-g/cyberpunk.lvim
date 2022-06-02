@@ -1,10 +1,10 @@
 local colors = {
   none = "NONE",
   fg = "#eeeeee",
-  bg = "#000000",
+  bg = "#00000000",
   alt_bg = "#00000000",
   dark = "#00000000",
-  accent = "#000000",
+  accent = "#00000000",
   dark_gray = "#5f6072",
   fg_gutter = "#2c2c2c",
   context = "#4c4c4c",
